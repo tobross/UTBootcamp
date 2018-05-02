@@ -1,0 +1,36 @@
+h1 {
+    font-family: Helvetica;
+    color: forestgreen;
+    border: solid 5px black;
+    
+}
+
+
+
+body {
+}
+
+a:hover {
+    background-color: #4aaaa5;
+}
+
+a:active {
+    font-size: 10px;
+}
+
+.one:hover {
+    font-size: 25px;
+    background-color: rebeccapurple;
+}
+.two:hover {
+    font-size: 25px;
+    background-color: royalblue;
+}
+.three:hover {
+    font-size: 25px;
+    background-color: skyblue;
+}
+.list {
+    font-size: 20px;
+    color: black;
+}
