@@ -1,0 +1,13 @@
+.card {
+    float: right;
+}
+
+.clearfix::after {
+    content: "";
+    clear: both;
+    display: table;
+}
+
+.col-md-4 {
+    float:left;
+}
